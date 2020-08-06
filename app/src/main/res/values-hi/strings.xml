@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name"><b>केन्द्रीय बजट</b></string>
+    <string name="nav_header"><b>केन्द्रीय बजट</b></string>
+
+
+    <string name="keytobudgetdocuments"><b>बजट पत्रों का संक्षिप्त परिचय</b></string>
+    <string name="BudgetHighlights"><b>मुख्य विशेषताएं</b></string>
+    <string name="BudgetSpeech"><b>बजट भाषण</b></string>
+    <string name="Budgetataglance"><b>बजट एक नजर में</b></string>
+    <string name="AnnualFinancialStatement"><b>वार्षिक वित्तीय विवरण</b></string>
+    <string name="Financialbill"><b>वित्त विधेयक</b></string>
+    <string name="Memorandum"><b>उपबंधों का व्याख्यात्मक ज्ञापन</b></string>
+    <string name="ReceiptBudget"><b>प्राप्ति बजट</b></string>
+    <string name="ExpenditureBudget"><b>व्यय बजट</b></string>
+    <string name="CustomsNotifications"><b>सीमा शुल्क अधिसूचनाएं</b></string>
+    <string name="themacroeconomicframeworkstatement"><b>बृहद आर्थिक रूपरेखा विवरण</b></string>
+    <string name="mediumtermfiscal"><b>मध्यावधिक राजकोषीय नीति विवरण</b></string>
+    <string name="Outputoutcome"><b>निर्गम - परिणाम रुपरेखा</b></string>
+    <string name="implemenationofbudgetannouncements"><b>घोषणाओं के कार्यान्वयन की स्थिति</b></string>
+    <string name="downloadpdf"><b>पीडीएफ डाउनलोड करें</b></string>
+    <string name="view"><b>पीडीएफ खोलें</b></string>
+    <string name="runningtext"><b>पीडीएफ देखने के लिए कृपया इसे पहले डाउनलोड करें फिर आप इसे ऑफ़लाइन मोड में देख सकते हैं</b></string>
+</resources>

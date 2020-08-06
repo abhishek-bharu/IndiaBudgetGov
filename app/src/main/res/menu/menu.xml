@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <item android:title="Budget Documents">
+
+        <menu>
+            <item
+                android:id="@+id/keytobudgetdocuments"
+                android:icon="@drawable/forwardarrow"
+                android:title="@string/keytobudgetdocuments"></item>
+            <item
+                android:id="@+id/budgethightlights"
+                android:icon="@drawable/forwardarrow"
+                android:title="@string/BudgetHighlights"></item>
+            <item
+                android:id="@+id/budgetspeech"
+                android:icon="@drawable/forwardarrow"
+                android:title="@string/BudgetSpeech"></item>
+            <item
+                android:id="@+id/budgetatglance"
+                android:icon="@drawable/forwardarrow"
+                android:title="@string/Budgetataglance"></item>
+            <item
+                android:id="@+id/annualfinancialstatement"
+                android:icon="@drawable/forwardarrow"
+                android:title="@string/AnnualFinancialStatement"></item>
+            <item
+                android:id="@+id/Financebill"
+                android:icon="@drawable/forwardarrow"
+                android:title="@string/Financialbill"></item>
+            <item
+                android:id="@+id/memorandum"
+                android:icon="@drawable/forwardarrow"
+                android:title="@string/Memorandum"></item>
+            <item
+                android:id="@+id/ReceiptBudget"
+                android:icon="@drawable/forwardarrow"
+                android:title="@string/ReceiptBudget"></item>
+            <item
+                android:id="@+id/ExpenditureBudget"
+                android:icon="@drawable/forwardarrow"
+                android:title="@string/ExpenditureBudget"></item>
+            <item
+                android:id="@+id/CustomsNotifications"
+                android:icon="@drawable/forwardarrow"
+                android:title="@string/CustomsNotifications"></item>
+            <item
+                android:id="@+id/themacroeconomicframeworkstatement"
+                android:icon="@drawable/forwardarrow"
+                android:title="@string/themacroeconomicframeworkstatement"></item>
+            <item
+                android:id="@+id/mediumtermfiscal"
+                android:icon="@drawable/forwardarrow"
+                android:title="@string/mediumtermfiscal"></item>
+            <item
+                android:id="@+id/Outputoutcome"
+                android:icon="@drawable/forwardarrow"
+                android:title="@string/Outputoutcome"></item>
+            <item
+                android:id="@+id/implemenationofbudgetannouncements"
+                android:icon="@drawable/forwardarrow"
+                android:title="@string/implemenationofbudgetannouncements"></item>
+
+
+        </menu>
+
+
+    </item>
+    <item android:title="Sync And Update">
+        <menu>
+            <item
+                android:id="@+id/sync"
+                android:icon="@drawable/ic_sync_black_24dp"
+                android:title="Sync"></item>
+            <item
+                android:id="@+id/update"
+                android:icon="@drawable/ic_update_black_24dp"
+                android:title="Update"></item>
+        </menu>
+    </item>
+</menu>

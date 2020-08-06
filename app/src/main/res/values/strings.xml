@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name"><b>UnionBudget</b></string>
+    <string name="nav_header"><b>India Budget</b></string>
+    <string name="webaddress" translatable="false">indiabudget@gov.in</string>
+    <string name="navigation_drawer_open" translatable="false">Open naviagtion drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close naviagtion drawer</string>
+    <string name="keytobudgetdocuments"><b>Key To Budget Documents</b></string>
+    <string name="BudgetHighlights"><b>Budget Highlights(Key Features)</b></string>
+    <string name="BudgetSpeech"><b>Budget Speech</b></string>
+    <string name="Budgetataglance"><b>Budget At A Glance</b></string>
+    <string name="AnnualFinancialStatement"><b>Annual Financial Statement</b></string>
+    <string name="Financialbill"><b>Financial Bill</b></string>
+    <string name="Memorandum"><b>Memorandum</b></string>
+    <string name="ReceiptBudget"><b>Receipt Budget</b></string>
+    <string name="ExpenditureBudget"><b>Expenditure Budget</b></string>
+    <string name="CustomsNotifications"><b>CustomsNotifications</b></string>
+    <string name="themacroeconomicframeworkstatement"><b>The Macro Economic Framework Statement</b></string>
+    <string name="mediumtermfiscal"><b>Medium Term Fiscal Policy Cum Fiscal Policy Strategy Statement</b></string>
+    <string name="Outputoutcome"><b>Output Outcome Framework 2020-2021</b></string>
+    <string name="implemenationofbudgetannouncements"><b>Implementaion of Budget Announcements 2019-2020</b></string>
+    <string name="downloadpdf"><b>Download Pdf</b></string>
+    <string name="view">Open pdf</string>
+    <string name="runningtext"><b>In order To view Pdf please download it First Then you can view it in offline Mode</b></string>
+</resources>
